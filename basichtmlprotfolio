@@ -9,40 +9,57 @@
 
 <body>
     <!--My Prorfolio -->
-    <h1> Razib Miah </h1> <img src="c:\Users\razib\Documents\Razib Miah.jpeg" height="100" width="100">
-    <h2>
-        <h1> Education </h1> Daffodil Inernation University
-    </h2>
-    <h5> pursing CSE at DIU </h5>
-
-    <h2>
-        <ul>
-            <li>Information about Me</li>
-        </ul>
-    </h2>
-    <p> programmer , Ai Engenier and webdeveloper </p>
-    </ol>
-    <ol type="i"> Skills
-        <li> HTML</li>
-        <li>C++</li>
-        <li>Python</li>
-    </ol>
-    <ol>
-        <h2> MY coding Account </h2>
-        <li> CodeForce <a href="https://codeforces.com/profile/razibr246"> Link</a> </li>
-        <li> CodeChef <a href="https://www.codechef.com/users/razibr246"> Link</a> </li>
-    </ol>
-    <ol type = "a">
-        <h2> Hobbies </h2>
-        <li> Writing </li>
-        <li> Reading </li>
-        <li> sleeping </li>
-        <h2> Contact Me </h2>
-    </ol>
-    <ol type = "A">
-        <li> razibr246@gmail.com</li>
-        <li> 01927228826 </li>
-    </ol>
+    <header>
+        <h1> Razib Miah </h1>
+        <p>I belive in Allah </p><img src="c:\Users\razib\Documents\Razib Miah.jpeg" height="100" width="100">
+        <h2>
+            <hr>
+            <h1> Education </h1> Daffodil Inernation University
+        </h2>
+        <h5> pursing CSE at DIU </h5>
+    </header>
+    <section>
+        <h2>
+            <ul>
+                <hr>
+                <li>Information about Me</li>
+            </ul>
+        </h2>
+        <p> programmer , Ai Engenier and webdeveloper </p>
+    </section>
+    <section>
+        </ol>
+        <ol type="i"> Skills
+            <li> HTML</li>
+            <li>C++</li>
+            <li>Python</li>
+        </ol>
+    </section>
+    <section>
+        <ol>
+            <hr>
+            <h2> MY coding Account </h2>
+            <li> CodeForce <a href="https://codeforces.com/profile/razibr246"> Link</a> </li>
+            <li> CodeChef <a href="https://www.codechef.com/users/razibr246"> Link</a> </li>
+        </ol>
+    </section>
+    <section>
+        <ol type="a">
+            <hr>
+            <h2> Hobbies </h2>
+            <li> Writing </li>
+            <li> Reading </li>
+            <li> sleeping </li>
+            <hr>
+            <h2> Contact Me </h2>
+        </ol>
+    </section>
+    <footer>
+        <ol type="A">
+            <li> razibr246@gmail.com</li>
+            <li> 01927228826 </li>
+        </ol>
+    </footer>
     <p> I &hearts; my Profit Muhhamad (s)</p>
 
 
